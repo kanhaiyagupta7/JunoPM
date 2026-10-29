@@ -20,6 +20,6 @@ _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** I am Abel to get the 1st shot of prototype and used interactive mode with Claude to update the prototype.
+- **What broke / felt like a toy:** I need to provide more context and example to get the better result 
+- **What I'd change next pass:** I updated the prototype based on updating the skills sets to update the prototype 
