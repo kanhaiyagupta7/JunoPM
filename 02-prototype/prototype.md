@@ -14,7 +14,10 @@ https://claude.ai/artifact/CxwHd4MVhD7xen8EdAotD2
 _The one flow this prototype proves._
 
 
-<img width="1470" height="956" alt="Screenshot 2026-10-28 at 9 59 48 PM" src="https://github.com/user-attachments/assets/7e7e2857-b213-40db-8a49-7de3160d2155" />
+<img width="1470" height="956" alt="Version_1" src="https://github.com/user-attachments/assets/ba347acb-c03e-4062-b33f-2e9f2f987a24" />
+
+<img width="1470" height="956" alt="Version_2" src="https://github.com/user-attachments/assets/798c24f4-93ac-4a72-a4a5-ee8768cc7ee3" />
+
 
 _____
 
