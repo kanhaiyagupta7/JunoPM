@@ -125,6 +125,7 @@ Claim ID and member/plan context match the authorized request.
 Reject code and transaction details match the claims source.
 
 Eligibility is evaluated for the date of service.
+Policy document referred before making any decision
 
 **Failure behaviour**
 
@@ -132,7 +133,7 @@ If a mandatory check fails, Please shoe the details : “Unable to verify this c
 
 ## Eval plan
 
-_Stub. Module 6 fills this in: golden set, pass thresholds, and regression cadence for the verification gate above._
+Build a reviewed, test set covering PA required, member eligibility, non-formulary drug,pharmacy network, missing identifiers, conflicting data, stale policy. Have PBM subject-matter experts label expected findings and acceptable next steps.
 
 ## Out of scope
 
