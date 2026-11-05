@@ -23,7 +23,9 @@ final AI draft, evidence references, source timestamps and stored for further re
 
 **North Star** (Context):
 
-should  complete the active request based on input
+Help claims operations users complete accurate, evidence-backed
+investigations with less manual effort, without compromising data
+privacy, traceability, or human accountability.
 
 ## Rules of Engagement
 
