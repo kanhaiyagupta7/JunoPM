@@ -30,10 +30,11 @@ should  complete the active request based on input
 **Agency Permission:**
 
 should compare if already claim ID has processed then pull from memory not to search
+read the sources provided not to be go beyond other data sources
 
 **Access Control:**
 
-read teh sources provided not to be go beyond other data sources
+Please read the data from other tools and sources but please don't make change by own , please consult 
 
 **Fallback Protocols:**
 
