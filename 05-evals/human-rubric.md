@@ -211,3 +211,9 @@ A response generated with this skill is acceptable when:
 - Assumptions, limitations, and evaluator disagreements are visible.
 - It does not claim the system is production-ready unless the user-provided criteria and evidence support that conclusion.
 - It preserves human ownership of evaluation and release decisions.
+
+## Version
+
+- Skill: JunoPM Human Evaluation Rubric
+- Version: 1.0
+- Intended location: `01-prompting/human-evaluation-rubric.md`
